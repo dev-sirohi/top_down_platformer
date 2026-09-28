@@ -1,0 +1,27 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "assets/tiles/Grass.tsj": {
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Dev Sirohi/game_dev/first_game/maps",
+    "last.imagePath": "C:/Users/Dev Sirohi/Downloads/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "json",
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "t.tiled-project",
+    "recentFiles": [
+        "assets/tiles/Grass.tsj"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
